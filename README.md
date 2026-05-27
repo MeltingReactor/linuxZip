@@ -1,2 +1,2 @@
 # Linux Zip
-A unzipping tool that works fast.
+A unzipping tool for KDE Plasma that works fast.
